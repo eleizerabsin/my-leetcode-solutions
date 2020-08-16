@@ -1,2 +1,4 @@
 # my-leetcode-solutions
-My leetcode(https://leetcode.com/) solutions
+My leetcode solutions in java
+-
+https://leetcode.com/
